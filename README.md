@@ -1,4 +1,4 @@
-# Tic-Tac-Toe using Java Swing
+# Tic-Tac-Toe using Java Swing and AWT
 ![alt text](https://i.ibb.co/j6VMPRh/tic-tac-toe-1.png)
 
 
