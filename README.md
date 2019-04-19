@@ -3,5 +3,3 @@
 
 
 ![alt text](https://i.ibb.co/JpqhW3V/tic-tac-toe-2.png)
-![alt text](https://www.flickr.com/photos/salmanchy/35617857670/)
-![alt text](https://www.flickr.com/photos/salmanchy/35617857670)
